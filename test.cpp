@@ -3,10 +3,7 @@ using namespace std;
 
 int main(){
     cout<<"Nahid";
-    cout<<" bot";
+    cout<<"nnn";
 }
 
-// git status 
-// git add .
-// git commit -m "baust"
-// git push
+//git status && git add $fileName && git commit -m "baust" && git push
